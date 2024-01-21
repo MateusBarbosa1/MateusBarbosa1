@@ -1,5 +1,7 @@
 ### Hi! I am Mateus Barbosa👋
 
+- 🤯 I started studying programming at age 10
+- 😍 I'm passionate about back-end
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusBarbosa1&show_icons=true&theme=dark)
 
