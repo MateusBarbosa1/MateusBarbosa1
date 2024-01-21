@@ -1,7 +1,7 @@
 ### Hi! I am Mateus Barbosa👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusBarbosa1&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusBarbosa1&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
