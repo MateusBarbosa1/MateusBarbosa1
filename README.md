@@ -4,7 +4,7 @@
 - 😍 I'm passionate about back-end
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusBarbosa1&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusBarbosa1&layout=compact&theme=github_dark)
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
