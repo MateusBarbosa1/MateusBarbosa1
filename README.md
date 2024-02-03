@@ -2,6 +2,7 @@
 
 - 🤯 I started studying programming at age 10
 - 😍 I'm passionate about back-end
+- 😵‍💫 Learning Java
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusBarbosa1&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusBarbosa1&layout=compact&theme=github_dark)
