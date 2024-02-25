@@ -1,7 +1,7 @@
 # Hi! I am Mateus Barbosa👋
 
 - 🥴 I started studying programming at age 10
-- 😍 I'm passionate about back-end
+- 😍 I'm Web Developer
 - 😵‍💫 Learning Java
 
 ## Tech Stack
