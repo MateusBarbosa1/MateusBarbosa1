@@ -19,4 +19,5 @@
 </div>
 
 <br>
-<a  style="color: white;" href="https://mateusbarbosa1.github.io/Portifolio/">My Portfolio</a>
+<a  style="color: white;border: 1px solid white;padding: 5px 10px;text-decoration: none;" href="https://mateusbarbosa1.github.io/Portifolio/">My Portfolio</a>
+<a  style="color: white;border: 1px solid white;padding: 5px 10px;text-decoration: none;" href="https://barbosadev.com.br">My Website</a>
