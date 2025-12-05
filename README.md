@@ -6,8 +6,7 @@
 
 ## Git Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MateusBarbosa1&layout=compact&theme=github_dark)
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MateusBarbosa1&show_icons=true&theme=github_dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusBarbosa1)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
 
