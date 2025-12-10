@@ -1,8 +1,8 @@
-# Hi! I am Mateus Barbosa 👋
+# Olá! Meu nome é Mateus Barbosa 👋
 
-- 🥴 I started studying programming at age 10
-- 😍 I'm a Web Developer
-- 😵‍💫 Learning Java
+- 🥴 Eu comecei na programação aos 10 anos
+- 😍 Sou Desenvolvedor Web
+- 😵‍💫 Aprendendo Java
 
   
 ## Tech Stack
