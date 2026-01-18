@@ -2,7 +2,7 @@
 
 - 🥴 Eu comecei na programação aos 10 anos
 - 😍 Sou Completamente apaixonado por tecnologia
-- 😵‍💫 Aprendendo Java
+- 😵‍💫 Focado em Back End
 
   
 ## Tech Stack
