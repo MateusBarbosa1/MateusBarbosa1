@@ -1,7 +1,7 @@
 # Olá! Meu nome é Mateus Barbosa 👋
 
 - 🥴 Eu comecei na programação aos 10 anos
-- 😍 Sou Desenvolvedor Web
+- 😍 Sou Completamente apaixonado por tecnologia
 - 😵‍💫 Aprendendo Java
 
   
