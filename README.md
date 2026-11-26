@@ -29,10 +29,10 @@ A **Barbosa Dev** é a minha marca, onde junto as duas coisas que mais gosto: **
 - 🤝 **Comunidade:** compartilhar conhecimento e ajudar quem está começando na área
 
 <p align="left">
-  <a href="https://SEU_SITE_AQUI">
+  <a href="https://barbosadev.tech">
     <img src="https://img.shields.io/badge/Site-Barbosa%20Dev-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM">
+  <a href="https://instagram.com/_barbosadev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -42,7 +42,7 @@ A **Barbosa Dev** é a minha marca, onde junto as duas coisas que mais gosto: **
 ## ⭐ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,java,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,java&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,linux,arduino&theme=dark" />
 </p>
@@ -52,12 +52,12 @@ A **Barbosa Dev** é a minha marca, onde junto as duas coisas que mais gosto: **
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MateusBarbosa1&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusBarbosa1&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateusBarbosa1&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ A **Barbosa Dev** é a minha marca, onde junto as duas coisas que mais gosto: **
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=2F81F7&style=flat-square&label=Visitas+ao+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=MateusBarbosa1&color=2F81F7&style=flat-square&label=Visitas+ao+perfil" />
 </p>
 
 <p align="center"><i>"Ensinar é aprender duas vezes."</i> 🚀</p>
