@@ -65,9 +65,6 @@ A **Barbosa Dev** é a minha marca, onde junto as duas coisas que mais gosto: **
 ## 📭 Contato
 
 <p align="left">
-  <a href="mailto:mateusbarbosadev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://wa.me/5581997626344">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
